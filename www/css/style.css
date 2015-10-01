@@ -1,0 +1,117 @@
+    .topbar {
+        padding: 0;
+        height: 75px;
+        border-bottom-width: 0px;
+    }
+    
+    .content {
+        top: 0;
+        /*margin-top: px;*/
+        padding-top: 0;
+        background-color: #004165;
+    }
+    
+    .large-white {
+        font-size: 80px;
+        color: white;
+    }
+    
+    .icon-div {
+        text-align: center;
+        padding-top: 50px;
+    }
+    
+    .sticker {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .redTab {
+        background-color: #EA7A88;
+        height: 80px;
+        color: white;
+        border: 2px;
+        border-style: solid;
+        border-color: #EA7A88 #EA7A88 #FFFFFF #EA7A88;
+        vertical-align: middle;
+    }
+    
+    .greenTab {
+        background-color: #A0D767;
+        height: 80px;
+        color: white;
+        border: 2px;
+        border-style: solid;
+        border-color: #A0D767 #A0D767 #FFFFFF #A0D767;
+        vertical-align: middle;
+    }
+    
+    .topbar {
+        padding: 0;
+        height: 0px;
+        border-bottom-width: 0px;
+    }
+    
+    .content {
+        top: 0;
+        margin-top: 7 5px;
+        padding-top: 0;
+        background-color: #004165;
+    }
+    
+    .large-white {
+        font-size: 80px;
+        color: white;
+    }
+    
+    .icon-div {
+        text-align: center;
+        padding-top: 50px;
+    }
+    
+    .sticker {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .button-light-green{
+         height: 200px;
+     width: 200px; 
+     border-radius : 100%;
+     background-color: #A0D767;
+     color: #fff;
+     /*font-weight: bold;*/
+     font-size: 30px;
+     text-decoration: none;
+     text-align: center;
+     text-shadow: 0px -1px 0px rgba(0,0,0,0.5);
+      margin-left : auto;
+      margin-top : 30px;
+      margin-bottom : 40px;
+      margin-right : auto;
+      border: 1px solid;
+      border-color: #B21522;
+      border-radius: 100%;
+      -moz-border-radius: 100%;
+      -webkit-border-radius: 100%;
+}
+.button-light-red {
+     height: 200px;
+     width: 200px; 
+     border-radius : 100%;
+     background-color: #EA7A88;
+     color: #fff;
+     /*font-weight: bold;*/
+     font-size: 30px;
+     text-decoration: none;
+     text-align: center;
+     text-shadow: 0px -1px 0px rgba(0,0,0,0.5);
+      margin-left : auto;
+      margin-top : 30px;
+      margin-bottom : 40px;
+      margin-right : auto;
+      border: 1px solid;
+      border-color: #B21522;
+      border-radius: 100%;
+      -moz-border-radius: 100%;
+      -webkit-border-radius: 100%;
+}

@@ -1,0 +1,30 @@
+.has-header {
+	background-color: #004165;
+}
+
+.tab-critical {
+	background-color: #EA7A88;
+	color: #ffffff;
+}
+
+.tab-positive {
+	background-color: #A0D767;
+	color: #ffffff;
+}
+
+.tab-neutral {
+	background-color: #9B9B9B;
+	color: #ffffff;
+}
+
+.pull-right {
+	float: right;
+}
+
+.card-comment {
+	height: 200px;
+}
+
+.tab-item {
+	max-width: 100%;
+}
